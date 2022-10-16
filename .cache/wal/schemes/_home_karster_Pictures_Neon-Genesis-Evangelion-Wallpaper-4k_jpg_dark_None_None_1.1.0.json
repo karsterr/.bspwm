@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/karster/Pictures/Neon-Genesis-Evangelion-Wallpaper-4k.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100507",
+        "foreground": "#d3d1d0",
+        "cursor": "#d3d1d0"
+    },
+    "colors": {
+        "color0": "#100507",
+        "color1": "#62B47C",
+        "color2": "#B1B445",
+        "color3": "#CC9F66",
+        "color4": "#5F2E9D",
+        "color5": "#6C4998",
+        "color6": "#9C4893",
+        "color7": "#d3d1d0",
+        "color8": "#939291",
+        "color9": "#62B47C",
+        "color10": "#B1B445",
+        "color11": "#CC9F66",
+        "color12": "#5F2E9D",
+        "color13": "#6C4998",
+        "color14": "#9C4893",
+        "color15": "#d3d1d0"
+    }
+}

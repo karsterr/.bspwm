@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/karster/Downloads/anime-live-shinobu-749ejnhndnhov4a0.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C1B2F",
+        "foreground": "#cad3e0",
+        "cursor": "#cad3e0"
+    },
+    "colors": {
+        "color0": "#0C1B2F",
+        "color1": "#976D7F",
+        "color2": "#3A6287",
+        "color3": "#5D708E",
+        "color4": "#6E8CA6",
+        "color5": "#7096CA",
+        "color6": "#9C98A8",
+        "color7": "#cad3e0",
+        "color8": "#8d939c",
+        "color9": "#976D7F",
+        "color10": "#3A6287",
+        "color11": "#5D708E",
+        "color12": "#6E8CA6",
+        "color13": "#7096CA",
+        "color14": "#9C98A8",
+        "color15": "#cad3e0"
+    }
+}

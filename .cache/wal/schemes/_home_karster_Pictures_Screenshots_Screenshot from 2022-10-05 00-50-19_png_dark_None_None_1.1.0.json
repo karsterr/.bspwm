@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/karster/Pictures/Screenshots/Screenshot from 2022-10-05 00-50-19.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0A0B16",
+        "foreground": "#bfbfdd",
+        "cursor": "#bfbfdd"
+    },
+    "colors": {
+        "color0": "#0A0B16",
+        "color1": "#5E6394",
+        "color2": "#485FAB",
+        "color3": "#6F76B4",
+        "color4": "#9B77AA",
+        "color5": "#7985C5",
+        "color6": "#C7A7BC",
+        "color7": "#bfbfdd",
+        "color8": "#85859a",
+        "color9": "#5E6394",
+        "color10": "#485FAB",
+        "color11": "#6F76B4",
+        "color12": "#9B77AA",
+        "color13": "#7985C5",
+        "color14": "#C7A7BC",
+        "color15": "#bfbfdd"
+    }
+}

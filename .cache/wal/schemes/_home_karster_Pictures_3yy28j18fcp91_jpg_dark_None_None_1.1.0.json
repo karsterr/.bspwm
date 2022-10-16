@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/karster/Pictures/3yy28j18fcp91.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#141018",
+        "foreground": "#e1d3cf",
+        "cursor": "#e1d3cf"
+    },
+    "colors": {
+        "color0": "#141018",
+        "color1": "#6DAA6D",
+        "color2": "#F89763",
+        "color3": "#C9C854",
+        "color4": "#3A409F",
+        "color5": "#6056A7",
+        "color6": "#9D6BB7",
+        "color7": "#e1d3cf",
+        "color8": "#9d9390",
+        "color9": "#6DAA6D",
+        "color10": "#F89763",
+        "color11": "#C9C854",
+        "color12": "#3A409F",
+        "color13": "#6056A7",
+        "color14": "#9D6BB7",
+        "color15": "#e1d3cf"
+    }
+}

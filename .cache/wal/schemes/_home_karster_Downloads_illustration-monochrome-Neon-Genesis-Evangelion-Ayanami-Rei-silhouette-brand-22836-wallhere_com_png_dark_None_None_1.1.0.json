@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/karster/Downloads/illustration-monochrome-Neon-Genesis-Evangelion-Ayanami-Rei-silhouette-brand-22836-wallhere.com.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c2222",
+        "foreground": "#e6e8e6",
+        "cursor": "#e6e8e6"
+    },
+    "colors": {
+        "color0": "#1c2222",
+        "color1": "#697B84",
+        "color2": "#78888A",
+        "color3": "#8C9493",
+        "color4": "#A3ADAE",
+        "color5": "#BDC2C0",
+        "color6": "#CFD3D1",
+        "color7": "#e6e8e6",
+        "color8": "#a1a2a1",
+        "color9": "#697B84",
+        "color10": "#78888A",
+        "color11": "#8C9493",
+        "color12": "#A3ADAE",
+        "color13": "#BDC2C0",
+        "color14": "#CFD3D1",
+        "color15": "#e6e8e6"
+    }
+}
