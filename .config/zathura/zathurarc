@@ -1,1 +1,29 @@
+set recolor
+set sandbox none
+set statusbar-h-padding 0
+set statusbar-v-padding 0
+set page-padding 1
+set selection-clipboard clipboard
+map u scroll half-up
+map d scroll half-down
+map D toggle_page_mode
+map J scroll full-down
+map K scroll full-up
+map r reload
+map R rotate
+map A zoom in
+map D zoom out
+map i recolor
+map p print
+set font "Fira Sans 9"
+#prime one
+map b toggle_statusbar
 
+set default-fg "#f4f4af"
+set default-bg "#0a0a0d"
+set recolor-lightcolor "#0a0a0d"
+set recolor-darkcolor "#f4f4af"
+set index-fg "#f4f4af"
+set index-bg "0a0a0d"
+set index-active-fg "f4f4af"
+set index-active-bg "0a0a0d"
