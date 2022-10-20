@@ -17,10 +17,15 @@ My rice for bspwm.
 - **Color Scheme (for Firefox)** : pywalfox
 
 ## Preview
-### First Look
 
-### neofetch/htop
+### First Look
+![firstLook](https://raw.githubusercontent.com/karsterr/.bspwm/main/screenshots/firstlook.png)
+
+### neofetch/htop/cmatrix
+![neofetchHtop](https://raw.githubusercontent.com/karsterr/.bspwm/main/screenshots/neofetch-htop.png)
 
 ### rofi
+![rofi](https://raw.githubusercontent.com/karsterr/.bspwm/main/screenshots/rofi.png)
 
 ### firefox
+![firefox](https://raw.githubusercontent.com/karsterr/.bspwm/main/screenshots/firefox.png)
